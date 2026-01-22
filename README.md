@@ -67,23 +67,23 @@ services:
 4. Item 4
 
 ### Listas ordenadas aninadas
-1. Item 1 
-  1.1 Item 1.1 
-  1.2 Item 1.2 
-2. Item 2 
-  2.1 Item 2.1 
-3. Item 3 
-4. Item 4 
+1. Item 1
+   1. Item 1.1
+   2. Item 1.2
+2. Item 2
+   1. Item 2.1
+3. Item 3
+4. Item 4
 
 ### Tablas
 | Encabezado 1 | Encabezado 2 | Encabezado 3
-| --- | --- | --- | ---
+| --- | --- | --- |
 | Fila 1.1 | Fila 1.2 | Fila 1.3
 | Fila 2.1 | Fila 2.2 | Fila 2.3
 | Fila 3.1 | Fila 3.2 | Fila 3.3
 
 ### Forzar un salto de línea 
-<!- Para forzar un salto de línea es necesario incluir dos espacios en blanco y un salto de línea. -->
+<!-- Para forzar un salto de línea es necesario incluir dos espacios en blanco y un salto de línea. -->
 Por ejemplo, en esta frase  
 hemos forzado un salto de línea.
 
@@ -92,5 +92,5 @@ Este texto no es una cita.
 > Este texto daría como resultado una cita.
 
 ### Comentarios
-<!- Este texto es un comentario y no será renderizado -->
+<!-- Este texto es un comentario y no será renderizado -->
 
